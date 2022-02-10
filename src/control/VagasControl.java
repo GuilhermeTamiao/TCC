@@ -140,6 +140,7 @@ public class VagasControl {
                     }
                     else{
                         ListaLbls[i].setIcon(imgVermelhoReto);
+                        System.out.println("teste git");
                     }
                 }
             }
